@@ -1,17 +1,26 @@
-# Проект: Место
+# «Место» - проектная работа для [Яндекс.Практикум](https://practicum.yandex.ru/). sprint 4
 
-### Обзор
+## Обзор на проект
+Интерактивная веб-страница с фотографиями крупных российских городов. 
 
+### Стек технологий:
+
+### HTML
+
+* Сематические теги
+
+### CSS
+
+* Flexbox
+* Grid
+* БЭМ Nested
 * Figma
-* Картинки
 
-**Figma**
+### JavaScript
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+## Ссылки
 
-**Картинки**
+[Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+### Ссылка на сайт:
+[сайт mesto](https://Maria17082004.github.io/mesto-4sprint/)
